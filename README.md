@@ -5,7 +5,7 @@
 ---
 
 ## Sobre mim
-Sou estudante de Tecnologia da Informação, focado em aprender conceitos de **desenvolvimento de software e infraestrutura**. 
+Sou estudante de Analise e desenvolvimento de sistemas, focado em aprender conceitos de **desenvolvimento de software e infraestrutura**. 
 ---
 
 - **Back-end** e desenvolvimento de sistemas  
