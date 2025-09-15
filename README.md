@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Luis Pestana 👋
 
-<!--
-**LuisPestana-dev/LuisPestana-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de TI | 💻 Aprendendo tecnologia e desenvolvimento 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+Sou estudante de Tecnologia da Informação, focado em aprender conceitos de **desenvolvimento de software e infraestrutura**. 
+---
+
+- **Back-end** e desenvolvimento de sistemas  
+- Bancos de dados e gerenciamento de informações  
+ 
+
+## Objetivos
+- Aprender programação e desenvolvimento de software do zero  
+- Participar de **projetos colaborativos e open-source** para ganhar experiência  
+
+---
+
+## Contato
+- **LinkedIn:** https://www.linkedin.com/in/lu%C3%ADs-pestana-361b87245/
+ 
+
+---
+
+✨ Estou sempre aprendendo e aberto a novas oportunidades de estudo e colaboração!
