@@ -1,27 +1,40 @@
-# Olá, eu sou o Luis Pestana 👋
+# Luís Henrique Pestana
 
-🎓 Estudante de TI | 💻 Aprendendo tecnologia e desenvolvimento 
+Desenvolvedor Backend (.NET)
 
----
+Desenvolvedor em formação, focado na construção de APIs e aplicação de boas práticas utilizando C# e ASP.NET Core.
 
-## Sobre mim
-Sou estudante de Analise e desenvolvimento de sistemas, focado em aprender conceitos de **desenvolvimento de software e infraestrutura**. 
----
+## 🎯 Objetivo
 
-- **Back-end** e desenvolvimento de sistemas  
-- Bancos de dados e gerenciamento de informações  
- 
+Busco oportunidade como Estagiário ou Desenvolvedor Júnior .NET, contribuindo com soluções backend e evoluindo tecnicamente em ambiente profissional.
 
-## Objetivos
-- Aprender programação e desenvolvimento de software do zero  
-- Participar de **projetos colaborativos e open-source** para ganhar experiência  
+## 🛠 Stack
 
----
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="36" height="36" alt=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="36" height="36" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" height="36" alt="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker"/>
+</p>
 
-## Contato
-- **LinkedIn:** https://www.linkedin.com/in/lu%C3%ADs-pestana-361b87245/
- 
+## 📚 Estudos Atuais
 
----
+- Construção de APIs REST com ASP.NET Core  
+- Integração com SQL Server  
+- Acesso a dados com Entity Framework Core  
+- Versionamento com Git e GitHub  
+- Conceitos de arquitetura em camadas  
+- Introdução a deploy no Microsoft Azure  
 
-✨ Estou sempre aprendendo e aberto a novas oportunidades de estudo e colaboração!
+## 📫 Contato
+
+<p>
+  <a href="luís-pestana-361b87245">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto: "luis-pestana1@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
